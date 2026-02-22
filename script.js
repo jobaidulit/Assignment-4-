@@ -185,3 +185,7 @@
         });
 
         renderJobs();
+
+        // Accordion
+
+  
